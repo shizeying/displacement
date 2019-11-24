@@ -1,0 +1,15 @@
+{
+  "wkt": {
+    "_all": {
+      "enabled": false
+    },
+    "properties": {
+      "id": {
+        "type": "keyword"
+      },
+      "wkt": {
+        "type": "geo_shp"
+      }
+    }
+  }
+}
