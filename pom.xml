@@ -21,7 +21,7 @@
     <geotools.version>18.1</geotools.version>
     <log4j.version>2.11.1</log4j.version>
     <jts.version>1.13</jts.version>
-    <elasticsearch.version>6.8.4</elasticsearch.version>
+    <elasticsearch.version>7.12.1</elasticsearch.version>
     <guava-version>29.0-jre</guava-version>
     <docker.image.prefix>displacement</docker.image.prefix>
   </properties>
